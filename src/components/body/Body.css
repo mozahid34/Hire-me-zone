@@ -1,0 +1,22 @@
+.container {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.view {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+}
+
+.cart {
+
+    text-align: start;
+    box-shadow: 10px 5px 5px gray;
+    border-radius: 25px;
+    padding: 20px 20px;
+    background-color: skyblue;
+    width: auto;
+    margin-left: 10px;
+}

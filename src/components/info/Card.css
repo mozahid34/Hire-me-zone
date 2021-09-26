@@ -1,0 +1,21 @@
+.card-container {
+    margin-left: 10px;
+}
+.card {
+    box-shadow: 10px 5px 5px gray;
+    border-radius: 25px;
+    padding: 20px 20px;
+    background-color: white;
+}
+
+img {
+    width: 45%;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: rgb(123, 203, 235);
+    border-radius: 25px;
+    font-weight: 900;
+    cursor: pointer;
+}
